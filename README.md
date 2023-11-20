@@ -1,26 +1,73 @@
-**Hey, I am Chang Chong, Blockchain and AI Developer⚡️**
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative & Sensitive Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-![gh-profile-banner](/media/gh-profile-banner.png)
+Nice to meet you!
+<br/>
+I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology.
+I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
 
-- ♂ He/Him/His 📍 Living in 	Marburg, Germany
-- I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
-- Interested in Blockchain and AI project development.
-- General mails at icefrog0715@gmail.com
+<h1 align="center">
+  <a href="/">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+    <a href="/">
+    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-303030?style=flat&logo=ethereum&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Binance" src="https://img.shields.io/badge/Binance-ffd050?style=flat&logo=binance&logoColor=black" />
+  </a>
+  <a href="/">
+    <img alt="Solana" src="https://img.shields.io/badge/Solana-c551dd?style=flat&logo=WhenIwork&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Polygon" src="https://img.shields.io/badge/Polygon-f12424?style=flat&logo=webcomponents.org&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="DeFi" src="https://img.shields.io/badge/DeFi-137CBD?style=flat&logo=Blueprint&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Dapp" src="https://img.shields.io/badge/DApp-fb8160?style=flat&logo=CashApp&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="NFT" src="https://img.shields.io/badge/NFT-00560e?style=flat&logo=WolframLanguage&logoColor=white" />
+  </a>
+  <br/>
+  <a href="/">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="/">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="/">  
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+</h1>
 
-**Work experience**
+<p align="right">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=BlockchainCrazy95&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+</p> 
 
-- Ex-engineering intern at [GitHub](https://github.com/github) (Under contract with Denave Germany Pvt. Ltd.)
-- Managed Engineering at [dunolabs](https://github.com/dunolabs), Managing everything technical.
-- Contributed actively to [AsyncAPI Initiative](https://asyncapi.com) as a Frontend Developer during [AsyncAPI Initiative's Mentorship Program 2022](https://github.com/orgs/asyncapi/discussions/376)
-- Worked as a Software Engineering Intern at [Clamp](https://joinclamp.com)
-- Worked as a Software Engineering Intern at [economize.cloud](https://economize.cloud)
+### **Interest:**
+- Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
+- Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
+- DeFi & Dapps (Uniswap, PancakeSwap, NFT minting site, NFT marketplace - Metaplex, Wallet)
+- Web3.js / Ether.js
+- Truffle / Hardhat / Cargo
+- Front-End develpment (React.js / Vue.js / React-Native)
+<!--
+### **Connect with me:**
+<div><img width="18px" height="18px" style="vertical-align:middle;" src="skype.svg" alt="Skype:"/> &nbsp; <span style="font-size:16px; line-height: 24px;vertical-align:top; ">live:.cid.fb566509d1a1ed0e</span></div>
 
-**Projects and showcase**
-
-- Created a landing-page similar to GitHub-website at [github.com/home](https://github.com/home). Check at [yashsehgal/github-landing](https://github.com/yashsehgal/github-landing)
-- Frequently adding frontend components to my crafts, check crafts at [crafts.yashsehgal.com](https://crafts.yashsehgal.com/)
-- Re-implemented a small shorthand text completion feature, used for sharing links and efficient chatting. Inspired from [Peerlist's Shorthand Feature](https://twitter.com/peerlisthq/status/1625725088195649537?s=61&t=lKD0ACc89qYa3erXFqbuXw). See my implementation [here](http://peerlist-shorthand-feature.vercel.app)
-- Designed and implemented a complete community website for [HEKORS](https://github.com/hekors) — Used NextJS, Tailwind, Typescript. Check the website's [Figma design](https://www.figma.com/file/jW2MWJ0uw6rjRHJgyyKNjv/HEKORS-Website-UI?node-id=1%3A2&t=TPRHKFjmLJXGV2Fx-1). Check out the [website](https://hekors.vercel.app)
-- Have written a tutorial blog on Understanding and Getting-started with Design Systems. Give it a read [here](https://yashsehgal.notion.site/Getting-started-with-Design-Systems-Engineering-00f9639dd68f4fd79701eb72ca5a1fec)
-- Made a small project for re-creating some of the UI components from Twitter Web-application. See the designs on [Figma](https://www.figma.com/file/jQPz0SxTB6OfuifQYRehet/Twitter-inspired-Design-System?node-id=0%3A1). Checkout the code on [GitHub](https://github.com/yashsehgal/twitter-ui-kit) and [live deployment](https://twitter-ui-kit.vercel.app/)
-- Worked on a side-project, A CSS Library called Eccentric Touch. Learn more at [eccentrictouch-docs](http://eccentrictouch.thedesignsystems.com)
+<div><img width="18px" height="18px" style="vertical-align:middle;" src="telegram.png" alt="Telegram:"/> &nbsp; <span style="font-size:16px; line-height: 24px;vertical-align:top; ">@blockchaincrazy95</span></div>
+-->
