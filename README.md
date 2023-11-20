@@ -1,16 +1,15 @@
-**Hey, I am Yash Sehgal ⚡️**
+**Hey, I am Chang Chong, Blockchain and AI Developer⚡️**
 
 ![gh-profile-banner](/media/gh-profile-banner.png)
 
-- ♂ He/Him/His 📍 Living in Indore, India
+- ♂ He/Him/His 📍 Living in 	Marburg, Germany
 - I work as a design-centric-frontend-heavy software engineer. Mostly using React, TailwindCSS, Typescript.
-- Interested in Product Design, Design Systems Engineering, UI Engineering and Web-accessibility.
-- Wanna catch-up? Schedule a meet with me at [cal.com/yashsehgal](https://cal.com/yashsehgal)
-- General mails at yashsehgal.work@gmail.com
+- Interested in Blockchain and AI project development.
+- General mails at icefrog0715@gmail.com
 
 **Work experience**
 
-- Ex-engineering intern at [GitHub](https://github.com/github) (Under contract with Denave India Pvt. Ltd.)
+- Ex-engineering intern at [GitHub](https://github.com/github) (Under contract with Denave Germany Pvt. Ltd.)
 - Managed Engineering at [dunolabs](https://github.com/dunolabs), Managing everything technical.
 - Contributed actively to [AsyncAPI Initiative](https://asyncapi.com) as a Frontend Developer during [AsyncAPI Initiative's Mentorship Program 2022](https://github.com/orgs/asyncapi/discussions/376)
 - Worked as a Software Engineering Intern at [Clamp](https://joinclamp.com)
@@ -25,7 +24,3 @@
 - Have written a tutorial blog on Understanding and Getting-started with Design Systems. Give it a read [here](https://yashsehgal.notion.site/Getting-started-with-Design-Systems-Engineering-00f9639dd68f4fd79701eb72ca5a1fec)
 - Made a small project for re-creating some of the UI components from Twitter Web-application. See the designs on [Figma](https://www.figma.com/file/jQPz0SxTB6OfuifQYRehet/Twitter-inspired-Design-System?node-id=0%3A1). Checkout the code on [GitHub](https://github.com/yashsehgal/twitter-ui-kit) and [live deployment](https://twitter-ui-kit.vercel.app/)
 - Worked on a side-project, A CSS Library called Eccentric Touch. Learn more at [eccentrictouch-docs](http://eccentrictouch.thedesignsystems.com)
-
-**Socials**
-
-[Twitter/yashsehgaldev](https://twitter.com/yashsehgaldev) &bullet; [LinkedIn/sehgalyash](https://linkedin.com/in/sehgalyash) &bullet; [Instagram/sehgalyash_](https://instagram.com/sehgalyash_) &bullet; [Website/yashsehgal.com](https://yashsehgal.com) &bullet; [Peerlist/yashsehgaldev](https://peerlist.io/yashsehgaldev) &bullet; [Meetings at cal.com/yashsehgal](https://cal.com/yashsehgal)
