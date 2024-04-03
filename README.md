@@ -4,7 +4,7 @@ Nice to meet you!
 107.187.39.240
 b4p5m1j3Eaxbw8P0Raga
 <br/>
-I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology.
+I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain industry.
 I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
 
 <h1 align="center">
